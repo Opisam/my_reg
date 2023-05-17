@@ -1,5 +1,0 @@
-Django
-djangorestframework
-Pillow
-pytz
-sqlparse
